@@ -1,8 +1,1 @@
-body{
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-div{
-    margin-bottom: 20px;
-}
+*{box-sizing:border-box}body{margin:0;background:#0e1016;color:#f7f7fb;font-family:Arial,Helvetica,sans-serif;line-height:1.6}.wrap{max-width:1050px;margin:auto;padding:48px 22px;text-align:center}.eyebrow{letter-spacing:.22em;color:#c0a6ff;font-size:.8rem;font-weight:700}h1{font-size:clamp(2.8rem,8vw,5.5rem);margin:0 0 10px}h2{margin:0}.lead{color:#c5c5d2;max-width:600px;margin:0 auto 28px}nav{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin:25px 0 35px}nav a{display:inline-block;background:#8b5cf6;color:white;padding:11px 20px;border-radius:9px;text-decoration:none;font-weight:700}nav a:hover{background:#a78bfa}.feature{background:#1b1e2b;border:1px solid #34364a;padding:25px;border-radius:18px;max-width:650px;margin:30px auto}.hero-image{width:100%;max-width:330px;image-rendering:auto;border-radius:12px;margin-top:14px}.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin:28px 0}.gallery figure{margin:0;background:#1b1e2b;border:1px solid #34364a;border-radius:14px;padding:15px}.gallery img{width:100%;height:230px;object-fit:contain;background:#090a10;border-radius:9px}.gallery figcaption{color:#c5c5d2;margin-top:10px;font-size:.92rem}
